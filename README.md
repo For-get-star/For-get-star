@@ -1,24 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm [Your Name]
+
+## 📊 **GitHub Metrics**
+![Metrics](github-metrics.svg)
+
+## 🏆 **Competitive Programming**
+### Codeforces
+![Codeforces](https://raw.githubusercontent.com/For-get-star/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
+### ICPC Awards
+- 🥇 **ICPC EC Finals 2023** - Silver
+- 🥈 **ICPC Regional 2023** - Gold
+- 🏅 **CCPC Beijing 2024** - rank 6
+
+## 🎓 **Education**
+
+### **Beihang University (BUAA)**  
+`2022 - 2026` | *Bachelor of Science in Information and Computing Science*  
+🏫 **School of Artificial Intelligence** 
 
 
+## 👀 **Profile Visitors**
+![Visiter Count](https://komarev.com/ghpvc/?username=For-get-star&style=flat-square)
 
+## 🔧 **Technologies & Tools**
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=For-get-star&theme=dark&locale=cn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=For-get-star&theme=dark)
-
-
-<!--
-**For-get-star/For-get-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
