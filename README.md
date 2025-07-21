@@ -5,8 +5,8 @@
 
 ## 🏆 **Competitive Programming**
 ### Codeforces
-![Codeforces](https://raw.githubusercontent.com/For-get-star/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
+![Codeforces](https://raw.githubusercontent.com/For-get-star/cf-stats/main/output/light_card.svg)
+Codeforces Rating 2180
 ### ICPC Awards
 - 🥇 **ICPC EC Finals 2023** - Silver
 - 🥈 **ICPC Regional 2023** - Gold
